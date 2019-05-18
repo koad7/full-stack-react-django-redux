@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "/Users/kad/.local/share/virtualenvs/full-stack-react-django-redux-oN3loX3q/bin/python"
+    "python.pythonPath": "/Users/kad/.local/share/virtualenvs/full-stack-react-django-redux-oN3loX3q/bin/python",
+    "cSpell.words": [
+        "leadmanager"
+    ],
+    "python.formatting.provider": "black"
 }
